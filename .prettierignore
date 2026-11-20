@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+package-lock.json
+public
+src/assets
+src/__tests__/__snapshots__

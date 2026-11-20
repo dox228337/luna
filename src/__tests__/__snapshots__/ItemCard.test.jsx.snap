@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`структура картки відповідає збереженому snapshot 1`] = `
+<DocumentFragment>
+  <ul>
+    <li
+      class="track-item"
+    >
+      <div
+        class="track-row"
+      >
+        <span
+          class="track-number"
+        >
+          01
+        </span>
+        <div
+          class="track-artwork"
+        >
+          <img
+            alt=""
+            loading="lazy"
+            src="https://example.com/album.jpg"
+          />
+        </div>
+        <div
+          class="track-info"
+        >
+          <h3>
+            Обійми
+          </h3>
+          <p>
+            Океан Ельзи
+          </p>
+        </div>
+        <span
+          class="track-album"
+        >
+          Земля
+        </span>
+        <span
+          class="track-duration"
+        >
+          3:45
+        </span>
+        <div
+          class="track-actions"
+        >
+          <button
+            aria-label="Додати до обраного: Обійми"
+            aria-pressed="false"
+            class="icon-button favorite-button "
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="icon "
+              fill="none"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="1.7"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"
+              />
+            </svg>
+          </button>
+          <button
+            aria-expanded="false"
+            aria-label="Додати до плейлиста: Обійми"
+            class="icon-button"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="icon "
+              fill="none"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="1.7"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 5v14M5 12h14"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+      <a
+        class="track-source"
+        href="https://music.apple.com/ua/album/1?i=1"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Слухати в iTunes
+        <span
+          class="visually-hidden"
+        >
+          : Обійми (нова вкладка)
+        </span>
+      </a>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
